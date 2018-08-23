@@ -1,5 +1,5 @@
 var idpList = 'https://solid.github.io/solid-idp-list/services.json';
-var recommended = ['https://databox.me/'];
+var recommended = ['https://solidtest.space/'];
 
 /* ---- DON'T EDIT BELOW ---- */
 var accURL = {};
